@@ -23,7 +23,7 @@ To delete a note, click on the note's title on the homepage to view its details.
 ## Demo
 
 - [Link To The Repository](https://github.com/con118/notetaker)
-- [Link To The Demo Site](https://maxkeable.github.io/SpaceLink/)
+- [Link To The Demo Site](https://con118.github.io/notetaker/)
 
 # Marking criteria
 
